@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T10:28:25.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vFo7bkynTyNwUa54cN20" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T10:30:42.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jgSNLAyo5TKSv0PLbkdU" version="20.7.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2085" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CssKozzVS__TaEFJjU9P-34" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-34" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="390" width="145" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-35" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="CssKozzVS__TaEFJjU9P-34">
+        <mxCell id="CssKozzVS__TaEFJjU9P-35" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="CssKozzVS__TaEFJjU9P-34" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-37" value="SwapItems()" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="CssKozzVS__TaEFJjU9P-34">
+        <mxCell id="CssKozzVS__TaEFJjU9P-37" value="SwapItems()" style="text;whiteSpace=wrap;html=1;" parent="CssKozzVS__TaEFJjU9P-34" vertex="1">
           <mxGeometry x="55" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-38" value="Drag&amp;amp;End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="CssKozzVS__TaEFJjU9P-34">
+        <mxCell id="CssKozzVS__TaEFJjU9P-38" value="Drag&amp;amp;End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="CssKozzVS__TaEFJjU9P-34" vertex="1">
           <mxGeometry x="65" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-36" value="UIInventory" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="CssKozzVS__TaEFJjU9P-34">
+        <mxCell id="CssKozzVS__TaEFJjU9P-36" value="UIInventory" style="text;whiteSpace=wrap;html=1;" parent="CssKozzVS__TaEFJjU9P-34" vertex="1">
           <mxGeometry x="35" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Unity" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
@@ -36,82 +36,64 @@
             <mxPoint x="225" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-2" value="InvenSkill" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-2" value="InvenSkill" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="80" width="115" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="CssKozzVS__TaEFJjU9P-2">
+        <mxCell id="CssKozzVS__TaEFJjU9P-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="CssKozzVS__TaEFJjU9P-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-4" value="DefaultCreate()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="CssKozzVS__TaEFJjU9P-2">
+        <mxCell id="CssKozzVS__TaEFJjU9P-4" value="DefaultCreate()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="CssKozzVS__TaEFJjU9P-2" vertex="1">
           <mxGeometry x="70" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-12" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="CssKozzVS__TaEFJjU9P-2">
+        <mxCell id="CssKozzVS__TaEFJjU9P-12" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="CssKozzVS__TaEFJjU9P-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-115" y="149.50000000000034" as="sourcePoint" />
             <mxPoint x="55" y="149.50000000000034" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-5" value="DeleteCard()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="CssKozzVS__TaEFJjU9P-2">
+        <mxCell id="CssKozzVS__TaEFJjU9P-5" value="DeleteCard()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="CssKozzVS__TaEFJjU9P-2" vertex="1">
           <mxGeometry x="-15" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-8" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry width="145" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="CssKozzVS__TaEFJjU9P-8">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-7" value="UIInventory" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="CssKozzVS__TaEFJjU9P-8">
-          <mxGeometry x="35" y="6" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-17" value="SwapItems()" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="CssKozzVS__TaEFJjU9P-8">
-          <mxGeometry x="55" y="160" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-28" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="CssKozzVS__TaEFJjU9P-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-70" y="120.00000000000034" as="sourcePoint" />
-            <mxPoint x="30" y="120.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-1" value="InputGetkeyDOwn(KeyCode.E)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-1" value="InputGetkeyDOwn(KeyCode.E)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-15" value="" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;startArrow=blockThin;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-15" value="" style="verticalAlign=bottom;endArrow=none;shadow=0;strokeWidth=1;startArrow=blockThin;startFill=1;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="270.00000000000034" as="sourcePoint" />
             <mxPoint x="460" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-16" value="InputGetkeyDOwn(KeyCode.E)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-16" value="InputGetkeyDOwn(KeyCode.E)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-23" value="Card" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-23" value="Card" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="130" width="130" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-24" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="CssKozzVS__TaEFJjU9P-23">
+        <mxCell id="CssKozzVS__TaEFJjU9P-24" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="CssKozzVS__TaEFJjU9P-23" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-25" value="Clcik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="CssKozzVS__TaEFJjU9P-23">
+        <mxCell id="CssKozzVS__TaEFJjU9P-25" value="Clcik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="CssKozzVS__TaEFJjU9P-23" vertex="1">
           <mxGeometry x="60" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-26" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="CssKozzVS__TaEFJjU9P-23">
+        <mxCell id="CssKozzVS__TaEFJjU9P-26" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="CssKozzVS__TaEFJjU9P-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-115" y="149.50000000000034" as="sourcePoint" />
             <mxPoint x="55" y="149.50000000000034" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-32" value="OnClick()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="CssKozzVS__TaEFJjU9P-23">
+        <mxCell id="CssKozzVS__TaEFJjU9P-32" value="OnClick()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="CssKozzVS__TaEFJjU9P-23" vertex="1">
           <mxGeometry x="70" y="135" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-29" value="SkillBtnClick" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-29" value="SkillBtnClick" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-30" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-30" value="" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="450.00000000000034" as="sourcePoint" />
             <mxPoint x="640" y="450.00000000000034" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CssKozzVS__TaEFJjU9P-31" value="ItemBtnClick" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="CssKozzVS__TaEFJjU9P-31" value="ItemBtnClick" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
